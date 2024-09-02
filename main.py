@@ -5,7 +5,7 @@ import datetime as dt
 target_mail = "balaji.balachandar1@gmail.com"
 my_mail = "sampleforpythonmail@gmail.com"
 # password from app password option
-password = "cahgyiamhlyebtqw"
+password = ""
 
 with open("quotes.txt") as data:
     list_of_quotes = data.readlines()
